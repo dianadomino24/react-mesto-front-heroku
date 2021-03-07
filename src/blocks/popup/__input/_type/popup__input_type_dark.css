@@ -1,0 +1,12 @@
+.popup__input_type_dark {
+  background-color: #000000;
+  border-bottom: 2px solid #cccccc;
+  color: #fff;
+}
+.popup__input_type_dark:-webkit-autofill,
+.popup__input_type_dark:-webkit-autofill:hover,
+.popup__input_type_dark:-webkit-autofill:focus,
+.popup__input_type_dark:-webkit-autofill:active {
+  -webkit-text-fill-color: #fff;
+  -webkit-box-shadow: 0 0 0 30px #000 inset;
+}
