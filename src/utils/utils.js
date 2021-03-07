@@ -10,4 +10,4 @@ export const formSelectorsObj = {
 }
 
 export const BASE_URL =
-  'https://www.api.dianadomino24.students.nomoreparties.space'
+  'https://react-mesto-api-heroku.herokuapp.com/'
